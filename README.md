@@ -1,4 +1,3 @@
-
 ## Rift of the NecroDancer: Ultrawide Aspect Ratio Fix
 
 ### Features
@@ -16,6 +15,8 @@
 | ![Menu-Before](https://weesp.in/i/ad3bad6ba1be560e.png) | ![Menu-After](https://weesp.in/i/3e1c77b862438b3b.png) |
 | Before | After |
 
-
+### Limitations
+-   Cutscenes are not supported and never will be, as extending them beyond 16:9 would reveal [characters that should not be visible](https://weesp.in/i/86485cec7ec231cb.png).
+-   Minigames are also not supported and won't be, since [assets like backgrounds are designed for a 16:9 aspect ratio](https://weesp.in/i/6c04417e053e70c9.png) and would appear distorted if stretched to wider ratios.
 #### Credits:
 BepInEx: https://github.com/BepInEx/BepInEx
